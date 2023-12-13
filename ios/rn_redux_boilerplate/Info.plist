@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -51,5 +51,27 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Outfit-Black.otf</string>
+		<string>Outfit-Bold.otf</string>
+		<string>Outfit-ExtraBold.otf</string>
+		<string>Outfit-ExtraLight.otf</string>
+		<string>Outfit-Light.otf</string>
+		<string>Outfit-Medium.otf</string>
+		<string>Outfit-Regular.otf</string>
+		<string>Outfit-SemiBold.otf</string>
+		<string>Outfit-Thin.otf</string>
+		<string>Outfit-Black.ttf</string>
+		<string>Outfit-Bold.ttf</string>
+		<string>Outfit-ExtraBold.ttf</string>
+		<string>Outfit-ExtraLight.ttf</string>
+		<string>Outfit-Light.ttf</string>
+		<string>Outfit-Medium.ttf</string>
+		<string>Outfit-Regular.ttf</string>
+		<string>Outfit-SemiBold.ttf</string>
+		<string>Outfit-Thin.ttf</string>
+		<string>Outfit[wght].ttf</string>
+	</array>
 </dict>
 </plist>

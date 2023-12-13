@@ -18,6 +18,7 @@ const Settings = () => {
 
   const handleLogout = () => {
     // Remove both access token and refresh token from Local
+    console.log('BBB');
     removeSecureValue('token');
     removeSecureValue('refresh_token');
     // Remove access token from redux store

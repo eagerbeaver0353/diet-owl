@@ -24,7 +24,7 @@ const ThemeContext = React.createContext({} as ThemeContextInterface);
 export const ThemeProvider = ({
   children,
 }: ThemeProviderInterface): JSX.Element => {
-  const [theme, setTheme] = React.useState(themes.light);
+  const [theme, setTheme] = React.useState(themes.dark);
   return (
     <ThemeContext.Provider value={{theme, setTheme}}>
       {children}
